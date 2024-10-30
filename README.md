@@ -98,8 +98,8 @@ The platform handles various metrics related to renewable energy assets, includi
   ```bash
   docker-compose up --build
 
-### 📝 Contributing
+## 📝 Contributing
 Contributions are welcome! Please feel free to fork this repository, submit issues, or create pull requests for new features, improvements, or bug fixes.
 
-### 📜 License
+## 📜 License
 This project is licensed under the MIT License – see the LICENSE file for details.
